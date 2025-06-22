@@ -8,7 +8,7 @@ const About = () => {
       name: "Anand Venukrishnan",
       role: "Co-Founder & CEO",
       bio: "Passionate about inclusive technology and accessibility.",
-      image: "/anand_linkedin",
+      image: "/anand_linkedin.jpg",
       linkedin: "https://www.linkedin.com/in/anand-venukrishnan-aa97aa282/",
       email: "anand.venukrish@gmail.com"
     },
@@ -16,7 +16,7 @@ const About = () => {
       name: "Mohammed Shadab",
       role: "Co-Founder & CTO",
       bio: "Expert in voice technology and AI.",
-      image: "shadab_linkedin",
+      image: "shadab_linkedin.jpg",
       linkedin: "https://www.linkedin.com/in/mohammed-shadab-mit/",
       email: "https://mail.google.com/mail/u/0/#search/itskmshadab%40gmail.com"
     },
@@ -24,7 +24,7 @@ const About = () => {
       name: "Hiten Raj Singh",
       role: "Co-Founder & Head of Design",
       bio: "UX designer focused on accessibility and inclusive design.",
-      image: "hithen_linkedin",
+      image: "hithen_linkedin.jpg",
       linkedin: "https://www.linkedin.com/in/hiten-raj-singh-451998283/",
       email: "hitenhrs75@gmail.com"
     }
