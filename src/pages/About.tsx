@@ -8,25 +8,25 @@ const About = () => {
       name: "Anand Venukrishnan",
       role: "Co-Founder & CEO",
       bio: "Passionate about inclusive technology and accessibility.",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
-      linkedin: "#",
-      email: "anand@voicepay.in"
+      image: "/anand_linkedin",
+      linkedin: "https://www.linkedin.com/in/anand-venukrishnan-aa97aa282/",
+      email: "anand.venukrish@gmail.com"
     },
     {
       name: "Mohammed Shadab",
       role: "Co-Founder & CTO",
       bio: "Expert in voice technology and AI.",
-      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
-      linkedin: "#",
-      email: "shadab@voicepay.in"
+      image: "shadab_linkedin",
+      linkedin: "https://www.linkedin.com/in/mohammed-shadab-mit/",
+      email: "https://mail.google.com/mail/u/0/#search/itskmshadab%40gmail.com"
     },
     {
       name: "Hiten Raj Singh",
       role: "Co-Founder & Head of Design",
       bio: "UX designer focused on accessibility and inclusive design.",
-      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=face",
-      linkedin: "#",
-      email: "hiten@voicepay.in"
+      image: "hithen_linkedin",
+      linkedin: "https://www.linkedin.com/in/hiten-raj-singh-451998283/",
+      email: "hitenhrs75@gmail.com"
     }
   ];
 
