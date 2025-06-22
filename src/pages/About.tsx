@@ -7,7 +7,7 @@ const About = () => {
     {
       name: "Anand Venukrishnan",
       role: "Co-Founder & CEO",
-      bio: "Passionate about financial inclusion and accessibility technology. Former fintech executive with 10+ years experience.",
+      bio: "Passionate about inclusive technology and accessibility.",
       image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
       linkedin: "#",
       email: "anand@voicepay.in"
@@ -15,7 +15,7 @@ const About = () => {
     {
       name: "Mohammed Shadab",
       role: "Co-Founder & CTO",
-      bio: "AI and speech recognition expert. Previously led voice technology teams at major tech companies.",
+      bio: "Expert in voice technology and AI.",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
       linkedin: "#",
       email: "shadab@voicepay.in"
@@ -23,7 +23,7 @@ const About = () => {
     {
       name: "Hiten Raj Singh",
       role: "Co-Founder & Head of Design",
-      bio: "UX designer focused on accessibility and inclusive design. Champion of user-centered innovation.",
+      bio: "UX designer focused on accessibility and inclusive design.",
       image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=face",
       linkedin: "#",
       email: "hiten@voicepay.in"
